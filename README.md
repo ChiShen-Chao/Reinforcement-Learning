@@ -4,7 +4,7 @@ This is the simple reinforcement learning practice - Frozen Lake with Q-Learning
 
 ![alt text][result]
 
-[result]: https://github.com/ChiShen-Chao/Reinforcement-Learning/result_in_15000_episodes.png
+[result]: https://github.com/ChiShen-Chao/Reinforcement-Learning/blob/357856e8164e893982dc23178d34ffc22306c672/result_in_15000_episodes.png
 
 ## Installation  
 
