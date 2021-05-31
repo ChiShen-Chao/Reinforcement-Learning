@@ -2,6 +2,10 @@
 
 This is the simple reinforcement learning practice - Frozen Lake with Q-Learning. Include the basic concept of reinforcement learning. Using the concept of Q-Learning the example from OpenAI Gym.  
 
+![alt text][result]
+
+[result]: https://github.com/ChiShen-Chao/Reinforcement-Learning/result_in_15000_episodes.png
+
 ## Installation  
 
 ```sh
